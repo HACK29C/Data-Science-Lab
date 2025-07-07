@@ -1,27 +1,3 @@
-Ejercicio: Análisis de Datos Básico con NumPy
+Repositorio de Ejercicios - Diplomado en Ciencia de Datos Ciudadanos Básico
 
-Descripción:
-Este ejercicio práctico demuestra operaciones fundamentales de NumPy para ciencia de datos, incluyendo manipulación de arrays, cálculos estadísticos y filtrado de datos. El código está implementado en un Jupyter Notebook con explicaciones paso a paso.
-
-Qué aprenderás:
-Crear y redimensionar arrays con np.arange() y .reshape()
-Calcular medias y sumas de matrices
-Extraer diagonales y filtrar datos con indexación booleana
-Trabajar con matrices bidimensionales (10x10)
-
-
-Contenido del ejercicio:
-Generación de datos: Array del 1 al 100 → Matriz 10x10
-
-Operaciones clave:
-python
-media = np.mean(matriz)
-suma = np.sum(matriz)
-diagonal = np.diag(matriz)
-filtrado = matriz[matriz > 50]
-Explicaciones comentadas en cada paso del código
-
- Por qué es útil:
-Base esencial para análisis numérico en Python
-Ejemplo claro de sintaxis NumPy aplicada
-Fácil de modificar para experimentar con otros datos
+Este repositorio alberga una colección de ejercicios prácticos desarrollados como parte del Diplomado en Ciencia de Datos Ciudadanos Básico, un programa diseñado para impulsar el análisis de datos en diversos sectores mediante herramientas técnicas y metodológicas. Los contenidos abarcan desde fundamentos matemáticos y estadísticos hasta aplicaciones avanzadas con bibliotecas de Python (Pandas, NumPy), Machine Learning y Business Intelligence, con el objetivo de optimizar la toma de decisiones en contextos empresariales, científicos y sociales.
